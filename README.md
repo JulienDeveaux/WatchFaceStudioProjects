@@ -1,5 +1,5 @@
 # WatchFaceStudioProjects
 All my watch face studio files
-![image](https://github.com/JulienDeveaux/WatchFaceStudioProjects/assets/73243388/793ccdbf-0dce-4f5e-b219-cc80a9b62b26)
+![image](https://github.com/JulienDeveaux/WatchFaceStudioProjects/assets/73243388/7f2174dc-cb7e-44fc-ac40-99773b99cdad)
 
-![image](https://github.com/JulienDeveaux/WatchFaceStudioProjects/assets/73243388/d028f4df-fb75-4a1a-8edf-12413f7b6273)
+![image](https://github.com/JulienDeveaux/WatchFaceStudioProjects/assets/73243388/cb0110e7-d746-48ef-ac92-175df120f85a)
